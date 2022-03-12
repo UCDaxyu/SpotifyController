@@ -1,0 +1,25 @@
+# Site navigation links
+- title: Home
+  url: /README.md
+
+- title: About
+  url: /docs/about
+
+- title: Team Bio
+  url: /docs/TeamBios/team
+  
+- title: NIF
+  url: /docs/nif
+
+- title: Components
+  url: /docs/components
+
+- title: Documentation
+  url: /docs/documentation
+  
+- title: Design
+  url: /docs/design
+  
+- title: Test
+  url: /docs/test
+
