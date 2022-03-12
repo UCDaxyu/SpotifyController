@@ -1,0 +1,16 @@
+#define PLAYSTATEHEADER      "/v1/me/player"
+#define TRANSFERPLAYHEADER   "/v1/me/player"
+#define CURRTRACKHEADER       "/v1/me/player/currently-playing"
+#define GETDEVICESHEADER     "/v1/me/player/devices"
+#define RESUMEHEADER         "/v1/me/player/play"
+#define PAUSEHEADER          "/v1/me/player/pause"
+#define SKIPNEXTHEADER       "/v1/me/player/next"
+#define SKIPPREVHEADER       "/v1/me/player/previous"
+#define SEEKZEROHEADER           "/v1/me/player/seek?position_ms=0"
+#define VOLUMEHEADER         "/v1/me/player/volume?volume_percent="
+
+
+#define SPOTHEADER1          " HTTP/1.1\r\n"
+#define SPOTHEADER2          "Content-Type: application/json \r\n"
+#define SPOTHEADER3          "Authorization: Bearer "
+#define SPOTHEADER4          "Host: api.spotify.com\r\n"

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVersion value="11.1.0"/>
+	<deviceVariant value="Cortex M.CC3200"/>
+	<deviceFamily value="TMS470"/>
+	<deviceEndianness value="little"/>
+	<codegenToolVersion value="20.2.5.LTS"/>
+	<isElfFormat value="true"/>
+	<createSlaveProjects value=""/>
+	<ignoreDefaultDeviceSettings value="true"/>
+	<templateProperties value="id=webclient.projectspec.webclient,buildProfile=release"/>
+	<origin value="G:\My Drive\EEC 172\cc3200-sdk\netapps\http\client\ccs\webclient.projectspec"/>
+	<filesToOpen value=""/>
+</projectOptions>
