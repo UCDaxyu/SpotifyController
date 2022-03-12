@@ -3,23 +3,23 @@
   url: /README.md
 
 - title: About
-  url: /docs/about
+  url: /WebDocs/about
 
 - title: Team Bio
-  url: /docs/TeamBios/team
+  url: /WebDocs/TeamBios/team
   
 - title: NIF
-  url: /docs/nif
+  url: /WebDocs/nif
 
 - title: Components
-  url: /docs/components
+  url: /WebDocs/components
 
 - title: Documentation
-  url: /docs/documentation
+  url: /WebDocs/documentation
   
 - title: Design
-  url: /docs/design
+  url: /WebDocs/design
   
 - title: Test
-  url: /docs/test
+  url: /WebDocs/test
 
