@@ -10,13 +10,18 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
   <script src="{{ '/assets/js/script.js' | relative_url }}"></script>
-  {% for link in site.data.nav %}
-    {% assign domain = site.github.url %}
-    <a href="{{ domain }}{{ link.url }}" class="btn">{{ link.title }}</a>
-  {% endfor %}
+  
 {% seo %}
 
   {% include head-custom.html %}
+
+  <div class="vertical-center">
+    {% for link in site.data.nav %}
+      {% assign domain = site.github.url %}
+      <a href="{{ domain }}{{ link.url }}" class="btn">{{ link.title }}</a>
+    {% endfor %}
+  </div>
+  
 </head>
 
 <body>
@@ -24,7 +29,6 @@
   <div class="wrapper">
     <header>
       <h1 class="title">{{ site.title | default: site.github.repository_name }}</h1>
-      
     </header>
 
 
