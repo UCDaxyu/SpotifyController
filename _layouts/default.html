@@ -40,6 +40,14 @@
       </div>
     </div>
     <div id="container">
+      <div class="basiccontainer">
+        <div class="center">
+          {% for link in site.data.nav %}
+            {% assign domain = site.github.url %}
+            <a href="{{ domain }}{{ link.url }}" class="btn">{{ link.title }}</a>
+          {% endfor %}
+        </div>
+      </div>
       <p class="tagline">{{ site.description | default: site.github.project_tagline }}</p>
       <div id="main" role="main">
         <div class="download-bar">
