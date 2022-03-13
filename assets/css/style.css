@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 .btn {
-  display: inline-block;
+  /*display: inline-block;*/
   padding: 16px 32px;
   margin-bottom: 2rem;
   color: black;
