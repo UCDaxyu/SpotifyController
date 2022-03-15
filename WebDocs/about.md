@@ -6,7 +6,7 @@ This project is a spotify controller implemented using a CC3200 LaunchPad with p
 
 
 ### How it works
-**Connecting to the Internet**
+#####Connecting to the Internet
 
 Text here
 
