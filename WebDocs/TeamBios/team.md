@@ -1,0 +1,1 @@
+|**Alex Yu** <br/> **Electrical/Programming** <br/> B.S. Computer Engineering <br/> June 2022 [Bio/Interests](Alex.md)<br/> |  <img src="AlexBioPic.jpg" width= "225" height ="300" /> |
