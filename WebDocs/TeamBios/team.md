@@ -10,6 +10,6 @@ I'm currently doing an eletrical engineering internship with Caltrans at the Tra
 
 ---
 ### Darren Animo
-![Darren](darren.jpg)
+![Darren](darrn.jpg)
 
 Hi! My name is Darren Animo. I am an undergraduate Computer Engineering student at UC Davis. I grew up in Sacramento, and knew from an early age that I wanted to work with computers so I enrolled in UC Davis after finishing high school and I am currently pursuing my bachelors degree in Computer Engineering.
