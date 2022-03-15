@@ -45,3 +45,5 @@ To send data from Spotify about what task the user wants done, user input is col
 
 **Displaying Data on the OLED**
 ![Authorization Code](Media/IMG_1608.JPG)
+
+The OLED display utilizes a modified version of Adafruit's [open source graphics library](http://www.adafruit.com/product/1431) made for Arduino. The modified library ports this code to a version that can be recognized by the CC3200. The OLED displays the track name, artist, track length, volume level, and a media player interface for the user. The track name and artist are pulled directly from spotify, the track length is pulled from spotify in milliseconds and converted to minutes:seconds format for the display, and the rest of the display consists of controls the user can send to spotify.
