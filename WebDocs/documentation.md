@@ -1,6 +1,18 @@
 ***
-##Overview
+## Overview
 
+## Materials
+***
+#### Hardware Used: 
+* CC3200 LaunchPad
+* Adafruit OLED Breakout Board
+* AT&T S10-S3 Remote Control
+* Vishay TSOP31336 IR Receiver Module
+
+#### Software Used: 
+* Code Composer Studio
+* TI Pin Mux Tool
+* CC3200 SDK 
 
 **Connecting to the Internet**
 
