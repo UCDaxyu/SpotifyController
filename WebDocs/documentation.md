@@ -1,7 +1,7 @@
 ***
 ## Overview
 
-**Materials**
+### Materials
 ***
 #### Hardware Used: 
 * CC3200 LaunchPad
