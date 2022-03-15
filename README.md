@@ -1,5 +1,5 @@
-![Image](/assets/images/square.jpg)
-
+![SpotifyController](/assets/images/square.jpg)
+// replace square.jpg with picture of the project
 ## Welcome to GitHub Pages
 
 Maybe we just combine home and about into one page? not too sure what to put that would be different
