@@ -44,3 +44,4 @@ The API calls we chose to implement are provided as macro definitions below.
 To send data from Spotify about what task the user wants done, user input is collected through an IR remote control. Each button of the remote sends a different waveform to the IR receiver connected to our CC3200 LaunchPad. Using an onboard timer and GPIO pin interrupt the board can interpret these waveforms to determine what button on the remote the user pressed. Each waveform can be interpreted as a 32 bit integer which is unique for each button of the remote. This incoming value is then examined to determine which button was pressed by the user. Each button is mapped to a command to send to spotify . //adding more rn
 
 **Displaying Data on the OLED**
+![Authorization Code](Media/IMG_1608.JPG)
