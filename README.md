@@ -1,3 +1,5 @@
+![Image](UCDaxyu/SpotifyController/images/square.jpg)
+
 ## Welcome to GitHub Pages
 
 Maybe we just combine home and about into one page? not too sure what to put that would be different
