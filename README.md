@@ -1,4 +1,4 @@
-![Image](UCDaxyu/SpotifyController/images/square.jpg?raw=true)
+![Image](https://github.com/UCDaxyu/SpotifyController/blob/main/images/square.jpg)
 
 ## Welcome to GitHub Pages
 
